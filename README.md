@@ -1,3 +1,3 @@
-# This repository is for the HPC DRA course
+# HPC_DRA
 
-This course takes place on Dec 2, online
+Example repository for DRA course.
